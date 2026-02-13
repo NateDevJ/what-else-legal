@@ -1,6 +1,6 @@
 # Terms of Service for What-Else
 
-**Last updated: February 7, 2026**
+**Last updated: February 13, 2026**
 
 ## Acceptance of Terms
 
@@ -50,11 +50,33 @@ IN NO EVENT SHALL WE BE LIABLE FOR:
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID FOR THE APP.
 
-## In-App Purchases
+## In-App Purchases & Subscriptions
 
-- Purchases are processed through Apple's App Store
+### What-Else Pro
+- Pro subscriptions and lifetime purchases are available
+- All purchases are processed securely through Apple's App Store
+- Subscription options: Monthly (€1.99), Yearly (€14.49), Lifetime (€29.99)
+- Yearly subscription includes a 7-day free trial
+
+### Payment & Billing
+- Payment is charged to your Apple ID account at confirmation of purchase
+- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- Manage or cancel subscriptions in iOS Settings → [Your Name] → Subscriptions
+
+### Free Trial
+- Yearly subscription includes a 7-day free trial
+- You can cancel anytime during the trial without charge
+- If you don't cancel, you'll be charged when the trial ends
+
+### Refunds
 - All sales are final and non-refundable except as required by law
-- Refund requests should be directed to Apple
+- Refund requests should be directed to Apple through the App Store
+- We do not have access to process refunds directly
+
+### Free Version Limitations
+- Free users can create up to 8 tasks
+- Some features (Statistics, Timeline Navigation, Premium Icons) require What-Else Pro
 
 ## Updates and Changes
 
@@ -79,7 +101,8 @@ These Terms shall be governed by and construed in accordance with the laws of Ge
 
 For questions about these Terms of Service, please contact:
 - **Email**: natedevj@gmail.com
-- **GitHub**: [What Else Repository](https://github.com/NateDevJ/What-Else)
+- **Support**: [GitHub Support](https://github.com/NateDevJ/what-else-legal/blob/main/support.md)
+- **Terms**: [Latest Version](https://github.com/NateDevJ/what-else-legal/blob/main/terms-of-service.md)
 
 ## Apple Requirements
 

@@ -1,6 +1,6 @@
 # Privacy Policy for What-Else
 
-**Last updated: February 7, 2026**
+**Last updated: February 13, 2026**
 
 ## Introduction
 
@@ -9,8 +9,9 @@ What-Else ("we", "our", or "the app") is committed to protecting your privacy. T
 ## Information We Collect
 
 ### Data You Provide
-- **Tasks**: Title, emoji, interval, due dates, reminders, notes
-- **Settings**: Theme preferences, notification settings
+- **Tasks**: Title, emoji, color, interval, scheduled days (for weekly/monthly/yearly tasks), due dates, reminders, notes, completion history
+- **Settings**: Theme preferences, notification settings, appearance mode
+- **Pro Subscription**: Purchase status and subscription information (managed by Apple)
 
 ### Automatically Collected Data
 - **Device Information**: iOS version, device model (for crash reporting only)
@@ -54,11 +55,19 @@ What-Else does not knowingly collect data from children under 13. The app is des
 
 We may update this Privacy Policy occasionally. We will notify you of any changes by updating the "Last updated" date.
 
+## In-App Purchases
+
+- **What-Else Pro**: Subscription and purchase information is handled by Apple through StoreKit
+- We do not collect or store your payment information
+- Subscription status is verified through Apple's servers
+- All transactions are subject to Apple's Privacy Policy
+
 ## Contact
 
 If you have questions about this Privacy Policy, please contact us at:
 - **Email**: natedevj@gmail.com
-- **GitHub**: [What Else Repository](https://github.com/NateDevJ/What-Else)
+- **Support**: [GitHub Support](https://github.com/NateDevJ/what-else-legal/blob/main/support.md)
+- **Privacy Policy**: [Latest Version](https://github.com/NateDevJ/what-else-legal/blob/main/privacy-policy.md)
 
 ## Apple's Privacy
 
