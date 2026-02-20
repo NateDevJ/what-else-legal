@@ -1,6 +1,6 @@
 # What-Else - Support
 
-**Last updated: February 13, 2026**
+**Last updated: February 20, 2026**
 
 Welcome to What-Else support! Here you'll find help with common questions and issues.
 
@@ -18,8 +18,9 @@ Welcome to What-Else support! Here you'll find help with common questions and is
 - Enter a title and select an interval:
   - **Regular Intervals**: Every X days/weeks/months/years
   - **Scheduled Tasks**: Specific days (e.g., every Monday & Friday, or 1st of each month)
+  - **Dual Scheduling**: Combine both — e.g., "Every 5 days" + "Every Tuesday"
 - Set a due date and optional reminder
-- Add custom color and notes (optional)
+- Optionally: assign a category, add custom color, notes
 - Tap **Add** to save
 
 **Note:** Free users can create up to 8 tasks. Upgrade to What-Else Pro for unlimited tasks.
@@ -41,16 +42,22 @@ Welcome to What-Else support! Here you'll find help with common questions and is
 ### Tasks & Elses
 
 **Q: What's the difference between interval and scheduled tasks?**
-- **Interval Tasks**: Repeat every X days/weeks/months (e.g., "every 5 days")
+- **Interval Tasks** ("Smart Intervals"): Repeat every X days/weeks/months. The next due date only sets after you actually complete the task — no stress if you're a day late
 - **Scheduled Tasks**: Occur on specific days:
   - **Weekly**: Select weekdays (e.g., every Monday and Thursday)
   - **Monthly**: Choose day of month (e.g., 1st or 15th of each month)
   - **Yearly**: Set specific date (e.g., March 15th every year)
+- **Dual Scheduling**: You can combine both in a single task!
 
 **Q: How do I complete a task?**
 - Tap the progress ring on the right side of the task card
 - The task will automatically be rescheduled based on its interval or schedule
-- Completion is tracked in your history for streaks
+- Your completion is recorded with On-Time Rate tracking
+
+**Q: What is On-Time Rate?**
+- On-Time Rate shows the percentage of times you completed a task before it became overdue
+- Each completion is recorded as either "on time" or "late"
+- This helps you identify which routines work well and which intervals need adjusting
 
 **Q: What do the ring colors mean?**
 - **Red**: Task is overdue
@@ -58,36 +65,44 @@ Welcome to What-Else support! Here you'll find help with common questions and is
 - **Green**: Task is upcoming (not due yet)
 
 **Q: Can I undo a completion?**
-- Yes! If "Show Undo Button" is enabled in Settings → General, a 3-second undo button appears in the toolbar
+- Yes! If "Show Undo Button" is enabled in Settings → General, a 3-second undo button appears in the toolbar after completing a task
 
 **Q: How do I edit or delete a task?**
 - Tap the task to open details, then tap **Edit**
 - Or long-press the task → **Edit**
 - To delete: Task Details → **Delete** button
 
+### Categories
+
+**Q: How do categories work?**
+- Create categories in Settings → Categories
+- Assign categories when creating or editing a task
+- A task can belong to multiple categories
+- Use categories to organize and filter your Elses
+
 ### Notifications
 
 **Q: I'm not receiving reminders**
-- Check Settings → Notifications → ensure "Allow Notifications" is enabled
+- Check Settings → Notifications → ensure "Allow Notifications" is enabled in the app
 - Make sure the task has a reminder enabled in Task Details
 - Verify notification permissions in iOS Settings → What-Else → Notifications
 
 **Q: How do Daily Overview notifications work?**
-- Go to Settings → Notifications
+- Go to Settings → Notifications in the app
 - Enable Today, Overdue, or Combined overviews
 - Set your preferred notification time
 - You'll receive a summary of due tasks each day
 
-### Widget
+### Widgets
 
 **Q: The widget isn't updating**
 - Widgets update automatically in the background
-- Try force-touching the widget → **Refresh Widget**
-- Ensure Background App Refresh is enabled in iOS Settings
+- Try removing and re-adding the widget
+- Ensure Background App Refresh is enabled in iOS Settings → What-Else
 
 **Q: Widget shows no data**
 - Open the app at least once to populate widget data
-- Widget displays your next 12 Elses by priority
+- Available widgets: Home Screen, Lock Screen, and Timeline Calendar
 
 ### Calendar & Statistics
 
@@ -95,92 +110,18 @@ Welcome to What-Else support! Here you'll find help with common questions and is
 - View your current week's tasks and completions
 - **Pro Feature**: Scroll through timeline to see past and future weeks
 - Tap a date to see tasks due that day
-- Tap the progress ring to complete tasks from calendar view
 
-**Q: What are streaks?** (Pro Feature)
-- Streaks track consecutive completions of a task
-- Complete a task before it becomes overdue to maintain your streak
-- View detailed statistics and charts in the Statistics view
+**Q: What statistics are available?** (Pro Feature)
+- **On-Time Rate**: See your overall and per-task completion reliability
+- **Completion Charts**: Visualize your completion patterns over time
+- **Highlights**: Identify your most reliable and most overdue tasks
+- **Insights**: Get smart recommendations to adjust your intervals
+- **Export**: Share your statistics
 
 **Q: I can't scroll the calendar timeline**
 - Timeline navigation (past/future weeks) is a Pro feature
 - Free users can view the current week
-- Upgrade to What-Else Pro to unlock full timeline access
-
-## Technical Issues
-
-### App Crashes or Freezes
-1. Force-quit the app (swipe up in App Switcher)
-2. Restart your device
-3. Ensure you're running the latest iOS version
-4. Check for app updates in the App Store
-5. If issues persist, try reinstalling the app
-
-### Data Issues
-If you experience data loss or corruption:
-1. Don't panic - your iCloud backup should be intact
-2. Sign out and back in to iCloud
-3. Reinstall the app to trigger iCloud restore
-
-## Siri Shortcuts
-
-**Q: How do I use Siri Shortcuts?**
-1. Open iOS Shortcuts app
-2. Search for "What-Else" actions
-3. Available shortcuts:
-   - **Complete [Task Name]**: Marks a task as complete
-   - **Show [Task Name]**: Opens task details
-
-## What-Else Pro
-
-**Q: What do I get with What-Else Pro?**
-- ∞ **Unlimited Tasks** (free users limited to 8)
-- 📊 **Statistics & Streak Tracking** with detailed charts
-- ✨ **90+ Premium SF Symbol Icons** for task customization
-- 📅 **Timeline Navigation** - scroll through calendar past and future
-
-**Q: How much does Pro cost?**
-- **Monthly**: €1.99/month
-- **Yearly**: €14.49/year (includes 7-day free trial)
-- **Lifetime**: €29.99 (one-time purchase)
-
-**Q: How do I upgrade to Pro?**
-- Tap **Settings** → **What-Else Pro**
-- Or tap the upgrade prompt when you reach the free limit
-- Choose your preferred subscription option
-- All purchases are processed securely through Apple
-
-**Q: Can I cancel my subscription?**
-- Yes, manage your subscription in iOS Settings → [Your Name] → Subscriptions
-- You can cancel anytime
-- Access continues until the end of your billing period
-
-**Q: Do I need to pay separately on each device?**
-- No! Your Pro subscription syncs across all your devices signed in with the same Apple ID
-
-## Contact Support
-
-Need more help? We're here to assist:
-
-- **Email**: natedevj@gmail.com
-- **Discord**: [Join our community server](https://discord.gg/qzmFAhTRAH)
-- **GitHub Issues**: [Report a bug or request a feature](https://github.com/NateDevJ/What-Else/issues)
-- **TestFlight Feedback**: Use the TestFlight app to send feedback directly
-
-### When Reporting Issues
-
-Please include:
-- iOS version (Settings → General → About → iOS Version)
-- Device model (e.g., iPhone 15 Pro)
-- Steps to reproduce the issue
-- Screenshots if applicable
-
-## Feature Requests
-
-We'd love to hear your ideas! Submit feature requests through:
-- GitHub Issues (labeled as "enhancement")
-- Discord community
-- TestFlight feedback
+- Upgrade to Pro to unlock full timeline access
 
 ## Siri Shortcuts
 
@@ -191,17 +132,74 @@ We'd love to hear your ideas! Submit feature requests through:
    - **Complete Else**: Marks a specific task as complete
    - **Show Else**: Opens task details
 
+## Technical Issues
+
+### App Crashes or Freezes
+1. Force-quit the app (swipe up in App Switcher)
+2. Restart your device
+3. Ensure you're running the latest iOS version
+4. Check for app updates in the App Store
+5. If issues persist, try reinstalling the app (iCloud will restore your data)
+
+### Data Issues
+If you experience data loss or corruption:
+1. Your iCloud backup should be intact
+2. Try signing out and back in to iCloud
+3. Reinstall the app to trigger an iCloud restore
+
+
+## What-Else Pro
+
+**Q: What do I get with What-Else Pro?**
+- ∞ **Unlimited Tasks** (free users limited to 8)
+- 📊 **Advanced Analytics**: On-Time Rate trends, completion patterns, and historical context
+- ✨ **90+ Premium SF Symbol Icons** for task customization
+- 📅 **Timeline Navigation**: Scroll through calendar past and future
+
+**Q: How much does Pro cost?**
+- **Monthly**: €1.99/month
+- **Yearly**: €14.49/year (includes 7-day free trial)
+- **Lifetime**: €29.99 (one-time purchase)
+
+Prices may vary by region. Current prices are always displayed in the app.
+
+**Q: How do I upgrade to Pro?**
+- Tap **Settings** → **What-Else Pro**
+- Or tap the upgrade prompt when you reach the free 8-task limit
+- Choose your preferred option
+- All purchases are processed securely through Apple
+
+**Q: Can I cancel my subscription?**
+- Yes, manage your subscription in iOS Settings → [Your Name] → Subscriptions
+- You can cancel anytime
+- Access continues until the end of your current billing period
+
+**Q: Do I need to pay separately on each device?**
+- No! Your Pro purchase syncs across all devices signed in with the same Apple ID
+
+**Q: How do I restore my purchase?**
+- Go to Settings → What-Else Pro → Restore Purchases
+- Make sure you're signed in with the same Apple ID used for the original purchase
+
+## Contact Support
+
+Need more help? We're here to assist:
+
+- **Email**: feedback@what-else.app
+
+### When Reporting Issues
+
+Please include:
+- iOS version (Settings → General → About → iOS Version)
+- Device model (e.g., iPhone 16 Pro)
+- Steps to reproduce the issue
+- Screenshots if applicable
+
 ## Privacy & Legal
 
 - [Privacy Policy](https://github.com/NateDevJ/what-else-legal/blob/main/privacy-policy.md)
 - [Terms of Service](https://github.com/NateDevJ/what-else-legal/blob/main/terms-of-service.md)
 
-## Additional Resources
-
-- **App Store**: [Download What-Else](https://apps.apple.com/app/what-else)
-- **Website**: [whatelse-app.com](https://whatelse-app.com)
-- **GitHub**: [Source & Issues](https://github.com/NateDevJ/What-Else)
-
 ---
 
-**Thank you for using What-Else!** 🎯
+**Thank you for using What-Else!**
