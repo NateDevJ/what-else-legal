@@ -4,6 +4,10 @@
 
 Welcome to What-Else support! Here you'll find help with common questions and issues.
 
+## What is an Else?
+
+In What-Else, we call your recurring tasks **"Elses"** — things you might not need to do right now, but shouldn't forget about. Whether it's watering your plants, changing your bedsheets, or calling a friend — an Else is anything that can wait, but not forever.
+
 ## Getting Started
 
 ### First Time Setup
@@ -17,19 +21,19 @@ Welcome to What-Else support! Here you'll find help with common questions and is
 - Choose an emoji or SF Symbol icon (Pro users get access to 90+ professional icons)
 - Enter a title and select an interval:
   - **Regular Intervals**: Every X days/weeks/months/years
-  - **Scheduled Tasks**: Specific days (e.g., every Monday & Friday, or 1st of each month)
+  - **Scheduled Elses**: Specific days (e.g., every Monday & Friday, or 1st of each month)
   - **Dual Scheduling**: Combine both — e.g., "Every 5 days" + "Every Tuesday"
 - Set a due date and optional reminder
-- Optionally: assign a category, add custom color, notes
+- Optionally: assign a category, add a custom color, notes
 - Tap **Add** to save
 
-**Note:** Free users can create up to 8 tasks. Upgrade to What-Else Pro for unlimited tasks.
+**Note:** Free users can create up to 8 Elses. Upgrade to What-Else Pro for unlimited Elses.
 
 ## Frequently Asked Questions
 
 ### Syncing & iCloud
 
-**Q: My tasks aren't syncing between devices**
+**Q: My Elses aren't syncing between devices**
 - Ensure you're signed in to the same iCloud account on all devices
 - Check Settings → [Your Name] → iCloud → ensure iCloud Drive is enabled
 - Wait a few minutes for sync to complete
@@ -39,59 +43,59 @@ Welcome to What-Else support! Here you'll find help with common questions and is
 - If you were signed in to iCloud, your data should be automatically restored when you reinstall the app
 - Wait a moment after opening the app for iCloud sync to complete
 
-### Tasks & Elses
+### Elses
 
-**Q: What's the difference between interval and scheduled tasks?**
-- **Interval Tasks** ("Smart Intervals"): Repeat every X days/weeks/months. The next due date only sets after you actually complete the task — no stress if you're a day late
-- **Scheduled Tasks**: Occur on specific days:
+**Q: What's the difference between interval and scheduled Elses?**
+- **Interval Elses** ("Smart Intervals"): Repeat every X days/weeks/months. The next due date only sets after you actually complete the Else — no stress if you're a day late
+- **Scheduled Elses**: Occur on specific days:
   - **Weekly**: Select weekdays (e.g., every Monday and Thursday)
   - **Monthly**: Choose day of month (e.g., 1st or 15th of each month)
   - **Yearly**: Set specific date (e.g., March 15th every year)
-- **Dual Scheduling**: You can combine both in a single task!
+- **Dual Scheduling**: You can combine both in a single Else!
 
-**Q: How do I complete a task?**
-- Tap the progress ring on the right side of the task card
-- The task will automatically be rescheduled based on its interval or schedule
+**Q: How do I complete an Else?**
+- Tap the progress ring on the right side of the Else card
+- The Else will automatically be rescheduled based on its interval or schedule
 - Your completion is recorded with On-Time Rate tracking
 
 **Q: What is On-Time Rate?**
-- On-Time Rate shows the percentage of times you completed a task before it became overdue
+- On-Time Rate shows the percentage of times you completed an Else before it became overdue
 - Each completion is recorded as either "on time" or "late"
 - This helps you identify which routines work well and which intervals need adjusting
 
 **Q: What do the ring colors mean?**
-- **Red**: Task is overdue
-- **Yellow**: Task is due today
-- **Green**: Task is upcoming (not due yet)
+- **Red**: Else is overdue
+- **Yellow**: Else is due today
+- **Green**: Else is upcoming (not due yet)
 
 **Q: Can I undo a completion?**
-- Yes! If "Show Undo Button" is enabled in Settings → General, a 3-second undo button appears in the toolbar after completing a task
+- Yes! If "Show Undo Button" is enabled in Settings → General, a 3-second undo button appears in the toolbar after completing an Else
 
-**Q: How do I edit or delete a task?**
-- Tap the task to open details, then tap **Edit**
-- Or long-press the task → **Edit**
-- To delete: Task Details → **Delete** button
+**Q: How do I edit or delete an Else?**
+- Tap the Else to open details, then tap **Edit**
+- Or long-press the Else → **Edit**
+- To delete: Else Details → **Delete** button
 
 ### Categories
 
 **Q: How do categories work?**
 - Create categories in Settings → Categories
-- Assign categories when creating or editing a task
-- A task can belong to multiple categories
+- Assign categories when creating or editing an Else
+- An Else can belong to multiple categories
 - Use categories to organize and filter your Elses
 
 ### Notifications
 
 **Q: I'm not receiving reminders**
 - Check Settings → Notifications → ensure "Allow Notifications" is enabled in the app
-- Make sure the task has a reminder enabled in Task Details
+- Make sure the Else has a reminder enabled in Else Details
 - Verify notification permissions in iOS Settings → What-Else → Notifications
 
 **Q: How do Daily Overview notifications work?**
 - Go to Settings → Notifications in the app
 - Enable Today, Overdue, or Combined overviews
 - Set your preferred notification time
-- You'll receive a summary of due tasks each day
+- You'll receive a summary of due Elses each day
 
 ### Widgets
 
@@ -107,14 +111,14 @@ Welcome to What-Else support! Here you'll find help with common questions and is
 ### Calendar & Statistics
 
 **Q: How do I use the Calendar view?**
-- View your current week's tasks and completions
+- View your current week's Elses and completions
 - **Pro Feature**: Scroll through timeline to see past and future weeks
-- Tap a date to see tasks due that day
+- Tap a date to see Elses due that day
 
 **Q: What statistics are available?** (Pro Feature)
-- **On-Time Rate**: See your overall and per-task completion reliability
+- **On-Time Rate**: See your overall and per-Else completion reliability
 - **Completion Charts**: Visualize your completion patterns over time
-- **Highlights**: Identify your most reliable and most overdue tasks
+- **Highlights**: Identify your most reliable and most overdue Elses
 - **Insights**: Get smart recommendations to adjust your intervals
 - **Export**: Share your statistics
 
@@ -129,8 +133,8 @@ Welcome to What-Else support! Here you'll find help with common questions and is
 1. Open iOS Shortcuts app
 2. Search for "What-Else" actions
 3. Available shortcuts:
-   - **Complete Else**: Marks a specific task as complete
-   - **Show Else**: Opens task details
+   - **Complete Else**: Marks a specific Else as complete
+   - **Show Else**: Opens Else details
 
 ## Technical Issues
 
@@ -151,9 +155,9 @@ If you experience data loss or corruption:
 ## What-Else Pro
 
 **Q: What do I get with What-Else Pro?**
-- ∞ **Unlimited Tasks** (free users limited to 8)
+- ∞ **Unlimited Elses** (free users limited to 8)
 - 📊 **Advanced Analytics**: On-Time Rate trends, completion patterns, and historical context
-- ✨ **90+ Premium SF Symbol Icons** for task customization
+- ✨ **90+ Premium SF Symbol Icons** for Else customization
 - 📅 **Timeline Navigation**: Scroll through calendar past and future
 
 **Q: How much does Pro cost?**
@@ -165,7 +169,7 @@ Prices may vary by region. Current prices are always displayed in the app.
 
 **Q: How do I upgrade to Pro?**
 - Tap **Settings** → **What-Else Pro**
-- Or tap the upgrade prompt when you reach the free 8-task limit
+- Or tap the upgrade prompt when you reach the free 8-Else limit
 - Choose your preferred option
 - All purchases are processed securely through Apple
 
